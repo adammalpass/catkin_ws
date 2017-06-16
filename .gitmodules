@@ -1,3 +1,6 @@
 [submodule "src/simple_arm"]
 	path = src/simple_arm
 	url = https://github.com/adammalpass/simple_arm
+[submodule "src/RoboND-Kinematics-Project"]
+	path = src/RoboND-Kinematics-Project
+	url = https://github.com/udacity/RoboND-Kinematics-Project.git
