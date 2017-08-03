@@ -4,3 +4,6 @@
 [submodule "src/RoboND-Kinematics-Project"]
 	path = src/RoboND-Kinematics-Project
 	url = https://github.com/adammalpass/RoboND-Kinematics-Project.git
+[submodule "src/RoboND-Perception-Project"]
+	path = src/RoboND-Perception-Project
+	url = https://github.com/adammalpass/RoboND-Perception-Project
