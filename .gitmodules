@@ -7,3 +7,6 @@
 [submodule "src/RoboND-Perception-Project"]
 	path = src/RoboND-Perception-Project
 	url = https://github.com/adammalpass/RoboND-Perception-Project
+[submodule "src/RoboND-Controls-Lab"]
+	path = src/RoboND-Controls-Lab
+	url = https://github.com/udacity/RoboND-Controls-Lab.git
