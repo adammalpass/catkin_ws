@@ -9,4 +9,4 @@
 	url = https://github.com/adammalpass/RoboND-Perception-Project
 [submodule "src/RoboND-Controls-Lab"]
 	path = src/RoboND-Controls-Lab
-	url = https://github.com/udacity/RoboND-Controls-Lab.git
+	url = https://github.com/adammalpass/RoboND-Controls-Lab.git
